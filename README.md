@@ -27,5 +27,6 @@ Ensure DNS records exist prior to running this updater script
 Run this script ./cloudflare-updater.property
 
 HOW TO SCHEDULE:
+
 TODO: Crontab instructions coming soon...
 
