@@ -38,7 +38,7 @@ Step 4:
 
 Ensure DNS records exist prior to running this updater script
 
-Run this script ./cloudflare-updater.property
+Run this script ./cloudflare-updater.py
 
 HOW TO SCHEDULE:
 
